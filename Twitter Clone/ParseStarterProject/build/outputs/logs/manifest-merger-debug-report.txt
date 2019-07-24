@@ -1,0 +1,700 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70110be5fbeb8077513792d24df420b3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3235f3bd722e9ac15538a134b5c94d3e\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3511cbf7e3c5f277eb4279f3801c75a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3f4e94f4b95688863c7a821b693a2308\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f767890c8ef16c6ac195c290f681f774\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4952162d5dc73ef374266287dd74aef0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f777b7421d38a8619b1cc14658a8932f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5db5749f85fe85aeb971ef45f60ad85f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2153f2176cbbfc1ec82444021a99c1c9\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bba5078ca3cf79497940c75d4f59b9ad\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5fb9a61c7fd5e08f94ed599c4290fc91\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\56697f0e202c7e43071cb90a2e1ed565\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5c750b93183dc659c3b98ca0fc65d963\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\dd12a7ed6d884e0678fe7af70011f747\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\6327bcb94c9f8fcbc99eff57242c62aa\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0020781fd18be0caf82db2bf73d08f0b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\393289759072480b01d5971fa64a9e2e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a464d39e9aed369dd20b20805c64af9d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\37c2e5da3ee363edbf230aeac55b2438\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\9dee055d9f754a131013b0b2dadccea0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\478fcdb0ba38176073b033e088d7b2fd\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\97c9ca6f8a351cb59dc3115c6f5d82e4\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f35cb5df5f1b59035c031ff2699ef690\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4e7ee3bc8bccf82e70e9332ff79da1d3\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3dd7471232b0ab6447777de3d1bc76d9\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\03104dcd3bc9e803b6c1c9c601d462a8\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bbafbe2971fc5051ea710939eaa94745\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e7d4b2fd358f05f945f3e05631d96a4c\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a856b3d2709151eaebf60d4609e5face\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70fbba05bde664436698545272a43ec5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f5c5f0d178e9a92184d53f2159f3047\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:16:1-39:12
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\be9e742e7368e0738dee324eddb2ebdf\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\b695043f94378bb7a59f8df376f5f576\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70110be5fbeb8077513792d24df420b3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70110be5fbeb8077513792d24df420b3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3235f3bd722e9ac15538a134b5c94d3e\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3235f3bd722e9ac15538a134b5c94d3e\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3511cbf7e3c5f277eb4279f3801c75a1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3511cbf7e3c5f277eb4279f3801c75a1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f767890c8ef16c6ac195c290f681f774\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f767890c8ef16c6ac195c290f681f774\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2153f2176cbbfc1ec82444021a99c1c9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2153f2176cbbfc1ec82444021a99c1c9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bba5078ca3cf79497940c75d4f59b9ad\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bba5078ca3cf79497940c75d4f59b9ad\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5fb9a61c7fd5e08f94ed599c4290fc91\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5fb9a61c7fd5e08f94ed599c4290fc91\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\56697f0e202c7e43071cb90a2e1ed565\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\56697f0e202c7e43071cb90a2e1ed565\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5c750b93183dc659c3b98ca0fc65d963\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5c750b93183dc659c3b98ca0fc65d963\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\dd12a7ed6d884e0678fe7af70011f747\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\dd12a7ed6d884e0678fe7af70011f747\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\6327bcb94c9f8fcbc99eff57242c62aa\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\6327bcb94c9f8fcbc99eff57242c62aa\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\478fcdb0ba38176073b033e088d7b2fd\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\478fcdb0ba38176073b033e088d7b2fd\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\97c9ca6f8a351cb59dc3115c6f5d82e4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\97c9ca6f8a351cb59dc3115c6f5d82e4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4e7ee3bc8bccf82e70e9332ff79da1d3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4e7ee3bc8bccf82e70e9332ff79da1d3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3dd7471232b0ab6447777de3d1bc76d9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3dd7471232b0ab6447777de3d1bc76d9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\03104dcd3bc9e803b6c1c9c601d462a8\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\03104dcd3bc9e803b6c1c9c601d462a8\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bbafbe2971fc5051ea710939eaa94745\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bbafbe2971fc5051ea710939eaa94745\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e7d4b2fd358f05f945f3e05631d96a4c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e7d4b2fd358f05f945f3e05631d96a4c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a856b3d2709151eaebf60d4609e5face\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a856b3d2709151eaebf60d4609e5face\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70fbba05bde664436698545272a43ec5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70fbba05bde664436698545272a43ec5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f5c5f0d178e9a92184d53f2159f3047\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f5c5f0d178e9a92184d53f2159f3047\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\be9e742e7368e0738dee324eddb2ebdf\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\be9e742e7368e0738dee324eddb2ebdf\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\b695043f94378bb7a59f8df376f5f576\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\b695043f94378bb7a59f8df376f5f576\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
+activity#com.parse.starter.FeedActivity
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:16:19-47
+activity#com.parse.starter.UsersActivity
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-51
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:17:19-48
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70110be5fbeb8077513792d24df420b3\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70110be5fbeb8077513792d24df420b3\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3235f3bd722e9ac15538a134b5c94d3e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3235f3bd722e9ac15538a134b5c94d3e\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3511cbf7e3c5f277eb4279f3801c75a1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3511cbf7e3c5f277eb4279f3801c75a1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3f4e94f4b95688863c7a821b693a2308\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3f4e94f4b95688863c7a821b693a2308\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f767890c8ef16c6ac195c290f681f774\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f767890c8ef16c6ac195c290f681f774\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4952162d5dc73ef374266287dd74aef0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4952162d5dc73ef374266287dd74aef0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f777b7421d38a8619b1cc14658a8932f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f777b7421d38a8619b1cc14658a8932f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5db5749f85fe85aeb971ef45f60ad85f\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5db5749f85fe85aeb971ef45f60ad85f\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2153f2176cbbfc1ec82444021a99c1c9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2153f2176cbbfc1ec82444021a99c1c9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bba5078ca3cf79497940c75d4f59b9ad\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bba5078ca3cf79497940c75d4f59b9ad\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5fb9a61c7fd5e08f94ed599c4290fc91\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5fb9a61c7fd5e08f94ed599c4290fc91\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\56697f0e202c7e43071cb90a2e1ed565\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\56697f0e202c7e43071cb90a2e1ed565\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5c750b93183dc659c3b98ca0fc65d963\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\5c750b93183dc659c3b98ca0fc65d963\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\dd12a7ed6d884e0678fe7af70011f747\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\dd12a7ed6d884e0678fe7af70011f747\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\6327bcb94c9f8fcbc99eff57242c62aa\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\6327bcb94c9f8fcbc99eff57242c62aa\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0020781fd18be0caf82db2bf73d08f0b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0020781fd18be0caf82db2bf73d08f0b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\393289759072480b01d5971fa64a9e2e\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\393289759072480b01d5971fa64a9e2e\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a464d39e9aed369dd20b20805c64af9d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a464d39e9aed369dd20b20805c64af9d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\37c2e5da3ee363edbf230aeac55b2438\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\37c2e5da3ee363edbf230aeac55b2438\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\9dee055d9f754a131013b0b2dadccea0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\9dee055d9f754a131013b0b2dadccea0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\478fcdb0ba38176073b033e088d7b2fd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\478fcdb0ba38176073b033e088d7b2fd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\97c9ca6f8a351cb59dc3115c6f5d82e4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\97c9ca6f8a351cb59dc3115c6f5d82e4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f35cb5df5f1b59035c031ff2699ef690\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f35cb5df5f1b59035c031ff2699ef690\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4e7ee3bc8bccf82e70e9332ff79da1d3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4e7ee3bc8bccf82e70e9332ff79da1d3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3dd7471232b0ab6447777de3d1bc76d9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3dd7471232b0ab6447777de3d1bc76d9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\03104dcd3bc9e803b6c1c9c601d462a8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\03104dcd3bc9e803b6c1c9c601d462a8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3bfbe0530442c7f8c3f88832728590cf\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bbafbe2971fc5051ea710939eaa94745\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bbafbe2971fc5051ea710939eaa94745\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e7d4b2fd358f05f945f3e05631d96a4c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e7d4b2fd358f05f945f3e05631d96a4c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a856b3d2709151eaebf60d4609e5face\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a856b3d2709151eaebf60d4609e5face\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70fbba05bde664436698545272a43ec5\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\70fbba05bde664436698545272a43ec5\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f5c5f0d178e9a92184d53f2159f3047\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f5c5f0d178e9a92184d53f2159f3047\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\be9e742e7368e0738dee324eddb2ebdf\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\be9e742e7368e0738dee324eddb2ebdf\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\b695043f94378bb7a59f8df376f5f576\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\b695043f94378bb7a59f8df376f5f576\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TANIKSH\Desktop\Udemy - Oreo Developer\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3eb72beb9b64c661c47beaf0caa5ff3c\AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\0f81a9c1d86a9d2cf3dbd572acc07a91\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\923e6e1db9bfd3d2c343a6955f824343\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\2c68f1a8b277e6cbf524e5e3e164b401\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1d0e3100872c3679bc0abe4047e46504\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\adfbdd94bbb0ebc272ac35cf20068f95\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c8f6fc63b3180b9ccf41b034416910bf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\4979db116e0b10b80ecf11c38db83f01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\90c71cc80e35f204841dfc79afc58ced\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\10b91dae17d01b5e0aff061e48ac749a\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2646d012bdcb20f9d14e1ce9d8bb74a\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\bef80cd7cc01e5d57f96212fed488662\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\cc6956940181d0582e485d232db0200b\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\a167e022314ba80b7538171b36236ab7\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3606ec9101045953db7b11872d50fd16\AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\3e82afb78f9a69c982b0c074fde65cca\AndroidManifest.xml:29:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c51b3b250d5aeecf901cd4c8cd66410c\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\454ab442a0dadf7e4a64107767c60951\AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e025f18f7f2eec867e86568306e240ea\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\1bea1950f215bad44c8b0e9cb50a1470\AndroidManifest.xml:20:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:25:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\af7682c2db5fd0fb8b05e78138f3860d\AndroidManifest.xml:28:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:29:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:31:13-36:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\599a7b8d0126502cb9a3afc952b18bc5\AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:29:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\45eca2dd63d11bef1f0ada7b9045207d\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\08cf61f10620997125f981ea802b36f3\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:25:17-71
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:28:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:33:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:36:13-40:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:39:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:52:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\c039b587272f6b890a793c68a8f1fa7a\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\f2df59d8c92d8782d2a468046d8755f9\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\TANIKSH\.gradle\caches\transforms-2\files-2.1\e3e573193b2c96345a3678495dcc4b5e\AndroidManifest.xml:22:13-58
